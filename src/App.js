@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit or not edit <code>src/App.js</code>. That's the question.
+          I was changed on the Feature branch.
+          
         </p>
         <a
           className="App-link"
